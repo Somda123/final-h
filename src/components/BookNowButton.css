@@ -1,0 +1,32 @@
+.button-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin: 20px 0; 
+}
+
+.book-now-button {
+    padding: 10px 20px;
+    font-weight: bolder;
+    background-color: black; 
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.book-now-button:hover {
+    background-color: #76b5f5;
+    color: black;
+    /* border: solid thin black; */
+}
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+  }

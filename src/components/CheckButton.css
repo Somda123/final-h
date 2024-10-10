@@ -1,0 +1,25 @@
+.check-button-section {
+    display: flex;
+    justify-content: center;
+    padding: 10px; /* Added padding for aesthetics */
+    background: rgba(255, 255, 255, 0.1);
+  }
+  
+  .check-button {
+    background-color: #76b5f5;
+    font-weight: bolder;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s; /* Smooth transition */
+  }
+  
+  .check-button:hover {
+    background-color: black;
+    color: whitesmoke;
+    /* border: solid thin; */
+  }
+  
