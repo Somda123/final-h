@@ -7,18 +7,25 @@
 .book-now-button {
     padding: 10px 20px;
     font-weight: bolder;
-    background-color: black; 
-    color: whitesmoke;
+    /* background-color: black;  */
+    background-color: #76b5f5;
+
+    /* color: whitesmoke; */
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
+    height: 50px;
+    /* font-family: 'Roboto', sans-serif; */
 }
 
 .book-now-button:hover {
-    background-color: #76b5f5;
-    color: black;
+    /* background-color: #76b5f5; */
+    background-color: black; 
+color: white;
+    /* color: black; */
     /* border: solid thin black; */
 }
 

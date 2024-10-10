@@ -140,7 +140,7 @@ const BookingForm = () => {
               onChange={handleInputChange}
               required
             >
-              <option value="ordinary">Ordinary</option>
+              <option value="ordinary">Non-Government</option>
               <option value="government">Government Official</option>
             </select>
           </div>

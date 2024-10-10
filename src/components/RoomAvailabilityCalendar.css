@@ -8,8 +8,17 @@
 .calendar-titl {
     font-size: 24px;
     margin-bottom: 10px;
-    font-family: 'Squada One', sans-serif;
+    /* font-family: 'Squada One', sans-serif; */
 }
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
 
 .calendar-wrapper {
     overflow-x: auto; /* Enable horizontal scrolling */

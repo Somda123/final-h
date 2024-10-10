@@ -23,7 +23,7 @@ function handleBook(){
       
       <div >
         {/* Circuit House Dantewada */}
-       <h1 className='h1he'> CIRCRUIT HOUSE DANTEWADA</h1>
+       <h1 className='h1he'> CIRCUIT HOUSE DANTEWADA</h1>
       </div>
       
       <div className="hamburger" onClick={toggleMenu}>

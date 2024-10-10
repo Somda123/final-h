@@ -32,7 +32,9 @@ h1, h2, h3 {
   flex-direction: column;
   justify-content: center;
   max-width: 600px;
+  /* max-width: 100%; */
   margin: 6rem auto;
+  /* margin: auto 6rem; */
   padding: 20px;
   border: solid thin whitesmoke;                           
   border-radius: 10px;
@@ -152,6 +154,8 @@ button:hover {
 @media (max-width: 768px) {
   .booking-form {
     padding: 10px;
+  max-width: 375px;
+
   }
 
   input,

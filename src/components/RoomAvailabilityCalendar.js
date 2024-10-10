@@ -30,7 +30,7 @@ const RoomAvailabilityCalendar = () => {
       
       {/* Legend section above the table */}
       <div className="legend">
-        <p style={{ display: 'inline-block', marginRight: '20px' }}>
+        <p style={{ display: 'inline-block', marginRight: '10px' }}>
           <span style={{color: 'green', fontSize: '20px'}}>●</span> Available Room
         </p>
         <p style={{ display: 'inline-block' }}>
